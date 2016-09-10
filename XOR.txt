@@ -1,0 +1,30 @@
+import java.util.*;
+
+import java.lang.*;
+
+
+class Main
+
+{
+	
+public static void main (String[] args) throws java.lang.Exception
+	
+{
+		
+Scanner sc=new Scanner(System.in);
+		
+int p=sc.nextInt();
+		
+int q=sc.nextInt();
+		
+if(p==q)
+		
+System.out.println(0);
+		
+else
+		
+System.out.println(1);
+	
+}
+
+}
